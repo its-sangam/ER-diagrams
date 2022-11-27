@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-27T01:16:02.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="pAFiUjvyZRRg6SVU02RO" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-27T01:16:23.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2vlSSNZMp64TfXAolNvn" version="20.6.0" type="github">
   <diagram id="B2ARIBKKhiZ7LNd-mBjg" name="Page-1">
-    <mxGraphModel dx="1718" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,13 +54,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MVHrYxxeqZgeIY8VJ2mN-23" value="customer" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MVHrYxxeqZgeIY8VJ2mN-24" value="customer_&lt;u&gt;id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="70" width="92.5" height="40" as="geometry" />
+          <mxGeometry x="17.5" y="20" width="92.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MVHrYxxeqZgeIY8VJ2mN-26" value="check_in_time" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="142.5" y="40" width="90" height="40" as="geometry" />
+          <mxGeometry x="130" y="10" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MVHrYxxeqZgeIY8VJ2mN-27" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.117;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MVHrYxxeqZgeIY8VJ2mN-23" target="MVHrYxxeqZgeIY8VJ2mN-24" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
