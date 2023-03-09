@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T04:16:02.805Z" agent="5.0 (Windows)" etag="eT7XFUCkJypGOd8uPu43" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T04:16:34.219Z" agent="5.0 (Windows)" etag="5BQl1DOm1-3ar6AoUrBK" version="21.0.4" type="github">
   <diagram name="Page-1" id="MdqxOSBSaqZ_96RRgu5g">
     <mxGraphModel dx="1050" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="90" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KGrGOb43IyPTfOyQaLYT-21" value="Register And Manage Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="KGrGOb43IyPTfOyQaLYT-32">
-          <mxGeometry x="190" y="10" width="120" height="50" as="geometry" />
+          <mxGeometry x="190" y="10" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KGrGOb43IyPTfOyQaLYT-22" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="KGrGOb43IyPTfOyQaLYT-32">
           <mxGeometry x="190" y="100" width="120" height="50" as="geometry" />
